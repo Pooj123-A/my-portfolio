@@ -3,7 +3,7 @@
 Hello everyone my name is Pooja 
 this is my personal website.
 
-#Contribute
+# Contribute
 * clone the repository
 * Explore the project
 * Find a bug 
