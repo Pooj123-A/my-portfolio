@@ -1,0 +1,10 @@
+.image {
+  width: 10vw;
+  padding: 2vw;
+}
+img:hover {
+  background-color: rgb(177, 174, 174);
+}
+.skills {
+  background-color: rgb(166, 166, 173);
+}
